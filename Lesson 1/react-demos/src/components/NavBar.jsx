@@ -11,5 +11,7 @@ function NavBar(){
         <button type="submit">Search</button>
     </form>
     );
+    
+
 }
 export default NavBar
