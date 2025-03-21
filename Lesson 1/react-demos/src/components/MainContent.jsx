@@ -6,7 +6,7 @@ const MainContent = () => {
     <h2>Main Content</h2>
     <p>I'm a old school Gemini</p>
   </main>
-  )
-}
+  );
+};
 
-export default MainContent
+export default MainContent;

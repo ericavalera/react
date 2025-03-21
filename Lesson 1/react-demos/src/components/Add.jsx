@@ -3,7 +3,7 @@ import React from 'react'
 const Add = () => {
   return (
    <h1>Something Cool</h1>
-  )
-}
+  );
+};
 
-export default Add
+export default Add;
